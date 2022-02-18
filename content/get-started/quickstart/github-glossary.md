@@ -1,4 +1,4 @@
----
+---https://github.com/github/docs/projects/1#card-77954510
 title: GitHub glossary
 intro: 'This glossary introduces common Git and {% data variables.product.prodname_dotcom %} terminology.'
 redirect_from:
